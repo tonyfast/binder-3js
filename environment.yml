@@ -1,7 +1,0 @@
-name: app
-dependencies:
-- numpy
-- jupyter
-- pip
-- pip:
-    - pythreejs
